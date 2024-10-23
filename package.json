@@ -2,7 +2,7 @@
     "name": "my-app",
     "version": "1.0.0",
     "scripts": {
-      "start": "lab1.js"
+      "start": "node lab1.js"
     }
   }
   
